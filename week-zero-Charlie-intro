@@ -1,0 +1,12 @@
+// This program will serve as a intorduction for my partner going forward in this class.
+public class weekzerointro{
+    public static void main(String[] args) {
+        System.out.println("Name: Charlie Roty");
+        System.out.println("Major: Computer Engineering");
+        System.out.println("Reason: Taking as a guest course to accelerate my degree at Kettering university");
+        System.out.println("Prior experience: Assembly and c code. Worked a decent amount with machine learning");
+        System.out.println("Hobbies: Rock climbing, disc golf, retro video games");
+        System.out.println("Plans for fall: 21st birthday and a wedding in Grand Rapids. Start up a new job as well");
+        System.out.println("Anything else: I have a strong level of experience with a variety of programming languages and look forward to adding Java to the list");
+    }
+}
