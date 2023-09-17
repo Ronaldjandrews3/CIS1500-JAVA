@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lab333 {
+public class lab3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] choices = { "Rock", "Paper", "Scissors", "Lizard", "Spock" };
